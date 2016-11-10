@@ -1,1 +1,1 @@
-# qt_creator
+# install
