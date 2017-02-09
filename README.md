@@ -1,10 +1,12 @@
 # install
 
-open <https://www.qt.io/download-open-source/>
+open <https://www.qt.io/download-open-source/> and download the [qt-opensource-xxx] file
 
-change the [qt-opensource-xxx] file mode
+change the [qt-opensource-xxx] file mode and install it
 
 >$ chmod +x [qt-opensource-xxx]
+
+>$ ./[qt-opensource-xxx]
 
 change the qt_creator link command to include catkin option
 
